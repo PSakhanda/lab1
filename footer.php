@@ -1,4 +1,4 @@
-	<footer class="footer" style="opacity:0.9" >
+	<footer class="footer" style="opacity:0.8" >
 		<div class="container">
 			<div class="content has-text-centered">
 				<span>
