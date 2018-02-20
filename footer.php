@@ -7,7 +7,7 @@
 				</span><br/>
 				<span>
 					<a href="/index.php" style="margin-right: 15px; font-size: 10px; color:#FFB800">ГОЛОВНА</a>
-					<a href="/about.php" style="margin-right: 40px; margin-left: 40px; font-size: 10px; color:#FFB800">ПРО НАС</a>
+					<a href="/about.php" style="margin-right: 30px; margin-left: 30px; font-size: 10px; color:#FFB800">ПРО НАС</a>
 					<a href="/contacts.php" style="margin-left: 15px; font-size: 10px; color:#FFB800">КОНТАКТИ</a>
 				</span><br/>
 				<span style="margin: 0; font-size:10px; margin-right: 10px">&#xA9; 2018 
